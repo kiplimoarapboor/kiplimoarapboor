@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiplimoarapboor
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Harvard's CS50
-- 💞️ I’m looking to collaborate on any projects I can. (Almost any😉)
+- 💞️ I’m looking to collaborate on any projects I can (Almost any😉, Computer Science Related), and learn new stuff.
 - 📫 Mail me through kiplimoboor@hotmail.com
 
 <!---
